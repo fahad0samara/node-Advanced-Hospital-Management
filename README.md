@@ -184,8 +184,8 @@ PUT /api/patients/:id
    - End-to-end testing for critical flows
 
 
-#API Documentation
-See docs for detailed API documentation and usage instructions.
+  ## API Documentation
+    See docs for detailed API documentation and usage instructions.
 
 ---
 
